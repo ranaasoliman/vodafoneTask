@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1f2ea72-f5b1-4711-96f5-e32df0af9b5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Practice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d5zRFHgw8rAj59djyPb5T3VE8Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Practice\uploads" />
+      <recent name="E:\Practice\drivers" />
+      <recent name="E:\Practice\src\test\java\data" />
+      <recent name="E:\Practice\Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Practice\.idea" />
+      <recent name="E:\Practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.tests">
+    <configuration name="E:/Practice/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTCs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveTCs" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTCs.checkAddingMultipleInputs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveTCs" />
+      <option name="METHOD_NAME" value="checkAddingMultipleInputs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTCs.uploadImage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveTCs" />
+      <option name="METHOD_NAME" value="uploadImage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.tests" />
+        <item itemvalue="TestNG.E:/Practice/testng.xml" />
+        <item itemvalue="TestNG.PositiveTCs" />
+        <item itemvalue="TestNG.PositiveTCs.uploadImage" />
+        <item itemvalue="TestNG.PositiveTCs.checkAddingMultipleInputs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f2ea72-f5b1-4711-96f5-e32df0af9b5c" name="Default Changelist" comment="" />
+      <created>1591729731404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591729731404</updated>
+      <workItem from="1591729735633" duration="7890000" />
+      <workItem from="1591872418314" duration="1055000" />
+      <workItem from="1591873511601" duration="972000" />
+      <workItem from="1591874521432" duration="277000" />
+      <workItem from="1591874854449" duration="2903000" />
+      <workItem from="1591877806807" duration="15668000" />
+      <workItem from="1592230569392" duration="8263000" />
+      <workItem from="1592304689429" duration="16629000" />
+      <workItem from="1592736265211" duration="816000" />
+      <workItem from="1592849213170" duration="756000" />
+      <workItem from="1592926015609" duration="613000" />
+      <workItem from="1594555329700" duration="10633000" />
+      <workItem from="1597608048601" duration="4954000" />
+      <workItem from="1599040051226" duration="72000" />
+      <workItem from="1614710766056" duration="1930000" />
+      <workItem from="1614712769864" duration="353000" />
+      <workItem from="1614713634986" duration="24885000" />
+      <workItem from="1614743125709" duration="1704000" />
+      <workItem from="1614744876217" duration="1856000" />
+      <workItem from="1614784184198" duration="14816000" />
+      <workItem from="1614799873404" duration="2005000" />
+      <workItem from="1614802175100" duration="7000" />
+      <workItem from="1614802280647" duration="2976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1614788003285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1614788003285" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614788034720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614788034720" />
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom" timestamp="1614805272362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614805272362" />
+    <state width="1323" height="228" key="GridCell.Tab.0.center" timestamp="1614805272362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614805272362" />
+    <state width="1323" height="228" key="GridCell.Tab.0.left" timestamp="1614805272362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614805272362" />
+    <state width="1323" height="228" key="GridCell.Tab.0.right" timestamp="1614805272362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614805272362" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1614802281994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1614802281994" />
+  </component>
+</project>
